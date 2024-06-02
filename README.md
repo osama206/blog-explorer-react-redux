@@ -42,7 +42,7 @@ npm test
 
 ## Demo
 
-You can view a live demo of the react-api-posts hosted on GitHub Pages [here](https://osama206.github.io/blog-explorer-react-redux).
+You can view a live demo of the blog-explorer-react-redux hosted on GitHub Pages [here](https://osama206.github.io/blog-explorer-react-redux).
 
 ## Usage
 - **Viewing Posts:** Upon opening the application, you will see a list of blog posts. You can click on a post to view its details.
