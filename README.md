@@ -5,7 +5,7 @@ Blog Explorer React Redux is a web application built with React and Redux that a
 
 ## Prerequisites
 Before you begin, ensure you have the following installed on your machine:
-- Node.js and npm (or yarn)
+- Node.js and npm
 - Git
 
 ## Getting Started
